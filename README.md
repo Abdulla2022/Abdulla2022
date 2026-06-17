@@ -3,12 +3,15 @@
   Software engineer who builds across the stack — web, mobile (cross-platform *and*
   native iOS), and the systems underneath. Comfortable going from a C memory layout
   to a TypeScript UI.
-  
-  - 🔭 Currently building **[what you're working on]**
-  - 🌱 Currently learning **[a topic you're picking up]**
+
+  - 🔭 Currently building **full-stack web & mobile products** — including a cross-border
+    e-commerce platform built around mobile-money payments and local pickup
+  - 🌱 Currently learning **production-grade Next.js (App Router / React Server Components)
+    and scaling Postgres/Supabase backends**
   - 💬 Ask me about **TypeScript, React/Next.js, React Native, iOS (Swift / Objective-C), or Python**
   - 📫 How to reach me: **abdulla.ahmed.dev@gmail.com**
-  - ⚡ Fun fact: **[something true about you]**
+  - ⚡ Fun fact: **I went from writing my first static HTML page to shipping full-stack apps
+    and native iOS — and I'm still leveling up.**
 
   ### 🛠️  Languages & Tools
 
@@ -36,7 +39,3 @@
   ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   
-  ### 📊 GitHub Stats
-  
-  ![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulla2022&show_icons=true&theme=default)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla2022&layout=compact)
