@@ -5,7 +5,7 @@
   to a TypeScript UI.
 
   - 🔭 Currently building **full-stack web & mobile products** — including a cross-border
-    e-commerce platform built around mobile-money payments and local pickup
+    e-commerce platform built around mobile-money payments
   - 🌱 Currently learning **production-grade Next.js (App Router / React Server Components)
     and scaling Postgres/Supabase backends**
   - 💬 Ask me about **TypeScript, React/Next.js, React Native, iOS (Swift / Objective-C), or Python**
