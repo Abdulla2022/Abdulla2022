@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Abdulla2022
-- 👀 I’m interested in software developemt and websites bulding
-- 🌱 I’m currently learning web designing 
-- 💞️ I’m looking to collaborate on buliding websites
-- 📫 How to reach me shaag2022@gmail.com
+ ### Hi, I'm Abdullahi 👋
+  
+  I'm a full-stack software engineer who likes building real products end to end —
+  from data model to pixels. I work mostly across **TypeScript, React/Next.js,
+  React Native, and Postgres/Supabase**, and I care as much about clean architecture
+  and honest UX as I do about shipping.
 
-<!---
-Abdulla2022/Abdulla2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  **What drives me:** building technology for markets that mainstream tools tend to
+  overlook. I'm especially drawn to the Horn of Africa and emerging markets, where the
+  constraints are different — mobile money instead of cards, local pickup instead of
+  courier delivery — and good engineering can have outsized impact.
+
+  **Interested in:**  
+  - 🌍 Fintech & commerce for emerging markets (mobile money, lightweight payments)
+  - ⚙️  Full-stack product engineering — web, mobile, and the systems behind them
+  - 🧩 Pragmatic architecture, type-safe data layers, and developer experience
+  - 📱 Performance and accessibility that holds up on real-world devices and networks
+
+  **Aspiring to:** [build/lead products that genuinely serve my community / product-minded role — edit to taste].
